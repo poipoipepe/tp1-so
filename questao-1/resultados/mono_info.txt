@@ -1,0 +1,17 @@
+Plataforma : mono
+Data       : Mon Oct 26 23:15:55 -03 2026
+Restricao  : 0
+Kernel     : Linux 6.6.87.1-microsoft-standard-WSL2 x86_64
+Nucleos    : 12
+
+CPU(s):                               12
+Model name:                           AMD Ryzen 5 5600 6-Core Processor
+Thread(s) per core:                   2
+Core(s) per socket:                   6
+Socket(s):                            1
+L1d cache:                            192 KiB (6 instances)
+L2 cache:                             3 MiB (6 instances)
+L3 cache:                             32 MiB (1 instance)
+
+MemTotal:       16336100 kB
+Carga inicial:  23:15:55 up 7 min,  1 user,  load average: 9.61, 5.21, 2.26
