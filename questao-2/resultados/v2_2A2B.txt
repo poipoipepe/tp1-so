@@ -1,0 +1,24 @@
+# Versao v2 - 2 A, 2 B - Mon Oct 26 23:42:25 -03 2026
+
+[B pid=5608] recebi 26 e 75 de A pid=5611
+[B pid=5609] recebi 35 e 79 de A pid=5612
+[A pid=5611] 26 + 75 = 101   (calculado por B pid=5608)
+[A pid=5612] 35 + 79 = 114   (calculado por B pid=5609)
+[B pid=5609] recebi 92 e 90 de A pid=5612
+[B pid=5608] recebi 29 e 93 de A pid=5611
+[A pid=5611] 29 + 93 = 122   (calculado por B pid=5608)
+[A pid=5612] 92 + 90 = 182   (calculado por B pid=5609)
+[B pid=5608] recebi 11 e 34 de A pid=5612
+[B pid=5609] recebi 27 e 56 de A pid=5611
+[A pid=5612] 11 + 34 = 45   (calculado por B pid=5608)
+[A pid=5611] 27 + 56 = 83   (calculado por B pid=5609)
+[B pid=5608] recebi 97 e 62 de A pid=5612
+[B pid=5609] recebi 13 e 82 de A pid=5611
+[A pid=5611] 13 + 82 = 95   (calculado por B pid=5609)
+[A pid=5612] 97 + 62 = 159   (calculado por B pid=5608)
+[B pid=5609] recebi 36 e 27 de A pid=5611
+[B pid=5608] recebi 67 e 65 de A pid=5612
+[A pid=5611] 36 + 27 = 63   (calculado por B pid=5609)
+[A pid=5612] 67 + 65 = 132   (calculado por B pid=5608)
+[B pid=5609] recebi 49 e 60 de A pid=5611
+[B pid=5608] recebi 60 e 19 de A pid=5612

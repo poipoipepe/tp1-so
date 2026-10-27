@@ -1,0 +1,13 @@
+# Versao v1 - 1 A, 2 B - Mon Oct 26 23:41:53 -03 2026
+
+[B pid=5568] recebi 10 e 9
+[A pid=5571] 10 + 9 = 19
+[B pid=5569] recebi 3 e 8
+[A pid=5571] 3 + 8 = 11
+[B pid=5568] recebi 63 e 83
+[A pid=5571] 63 + 83 = 146
+[B pid=5569] recebi 31 e 83
+[A pid=5571] 31 + 83 = 114
+[B pid=5568] recebi 46 e 18
+[A pid=5571] 46 + 18 = 64
+[B pid=5569] recebi 4 e 89

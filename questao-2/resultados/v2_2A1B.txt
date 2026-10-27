@@ -1,0 +1,15 @@
+# Versao v2 - 2 A, 1 B - Mon Oct 26 23:42:13 -03 2026
+
+[B pid=5592] recebi 3 e 28 de A pid=5594
+[B pid=5592] recebi 44 e 15 de A pid=5595
+[A pid=5594] 3 + 28 = 31   (calculado por B pid=5592)
+[B pid=5592] recebi 2 e 62 de A pid=5594
+[A pid=5595] 44 + 15 = 59   (calculado por B pid=5592)
+[B pid=5592] recebi 50 e 10 de A pid=5595
+[A pid=5594] 2 + 62 = 64   (calculado por B pid=5592)
+[B pid=5592] recebi 61 e 84 de A pid=5594
+[A pid=5595] 50 + 10 = 60   (calculado por B pid=5592)
+[B pid=5592] recebi 3 e 43 de A pid=5595
+[A pid=5594] 61 + 84 = 145   (calculado por B pid=5592)
+[B pid=5592] recebi 87 e 57 de A pid=5594
+[A pid=5595] 3 + 43 = 46   (calculado por B pid=5592)

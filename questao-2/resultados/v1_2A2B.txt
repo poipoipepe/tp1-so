@@ -1,0 +1,24 @@
+# Versao v1 - 2 A, 2 B - Mon Oct 26 23:41:59 -03 2026
+
+[B pid=5576] recebi 90 e 89
+[B pid=5577] recebi 37 e 95
+[A pid=5579] 90 + 89 = 179
+[B pid=5576] recebi 98 e 65
+[A pid=5580] 37 + 95 = 132
+[B pid=5577] recebi 16 e 68
+[A pid=5579] 98 + 65 = 163
+[A pid=5580] 16 + 68 = 84
+[B pid=5576] recebi 5 e 2
+[B pid=5577] recebi 57 e 5
+[A pid=5579] 5 + 2 = 7
+[A pid=5580] 57 + 5 = 62
+[B pid=5576] recebi 3 e 2
+[B pid=5577] recebi 89 e 96
+[A pid=5579] 3 + 2 = 5
+[A pid=5580] 89 + 96 = 185
+[B pid=5576] recebi 96 e 52
+[B pid=5577] recebi 58 e 46
+[A pid=5580] 58 + 46 = 104
+[A pid=5579] 96 + 52 = 148
+[B pid=5576] recebi 92 e 32
+[B pid=5577] recebi 79 e 16
